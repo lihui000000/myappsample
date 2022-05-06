@@ -1,1 +1,1 @@
-Length + Breadth = Area
+Length x Breadth = Area
